@@ -9,6 +9,7 @@ src/toxicity_toolkit.egg-info/requires.txt
 src/toxicity_toolkit.egg-info/top_level.txt
 src/toxicity_toolkit/data/datamodule.py
 src/toxicity_toolkit/data/adapters/hatexplain.py
+src/toxicity_toolkit/data/adapters/jigsaw.py
 src/toxicity_toolkit/explain/shap_explain.py
 src/toxicity_toolkit/infer/predictor.py
 src/toxicity_toolkit/models/multilabel_bert.py
