@@ -1,3 +1,27 @@
+Metadata-Version: 2.4
+Name: toxicity-toolkit
+Version: 0.1.0
+Summary: Open-source modular toxic content detection toolkit
+Author: Community Contributors
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: transformers>=4.44.0
+Requires-Dist: datasets>=2.20.0
+Requires-Dist: torch>=2.1.0
+Requires-Dist: scikit-learn>=1.3.0
+Requires-Dist: pandas>=2.1.0
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: typer>=0.12.3
+Requires-Dist: rich>=13.7.0
+Requires-Dist: pyyaml>=6.0.1
+Requires-Dist: tqdm>=4.66.0
+Requires-Dist: fastapi>=0.110.0
+Requires-Dist: uvicorn>=0.29.0
+Requires-Dist: shap>=0.44.0
+Requires-Dist: lime>=0.2.0.1
+Requires-Dist: streamlit>=1.37.0
+Requires-Dist: plotly>=5.22.0
+
 # Toxic Content Detection Toolkit
 
 Open-source, modular pipeline for detecting and classifying toxic text across multiple domains.

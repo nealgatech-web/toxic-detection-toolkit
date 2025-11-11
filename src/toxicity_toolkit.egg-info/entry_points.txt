@@ -1,0 +1,2 @@
+[console_scripts]
+toxdet = toxicity_toolkit.cli:app
